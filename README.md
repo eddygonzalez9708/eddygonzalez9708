@@ -8,7 +8,7 @@ In my role as a Software Engineer, I thrive on tackling complex challenges, buil
 ## Technical Skills 🛠️
 - **Web Development & Languages:** HTML, CSS, JavaScript, Python, Java
 - **Frameworks & Libraries:** Node.js, React, Next.js, Vue, Mongoose, Django, LangChain (OpenAI)
-- **Tools:** Git, NPM, Yarn, Restful APIs, OAuth, VS Code, Postman, MongoDB Compass
+- **Tools:** Git, GitBook, NPM, Yarn, Restful APIs, OAuth, VS Code, Postman, MongoDB Compass
 - **Database:** PostgreSQL, SQLite, MongoDB
 - **Testing:** Cypress, Jest, Unittest, Pytest
 - **Deployment:** Heroku, Netlify, CodeShip, mLab, Neon
