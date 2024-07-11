@@ -1,4 +1,6 @@
-<img src="https://komarev.com/ghpvc/?username=eddygonzalez9708&color=blue" alt="eddygonzalez9708" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=eddygonzalez9708&color=blue" alt="eddygonzalez9708" />
+</p>
 
 👋 Hi, I'm Edward Gonzalez! I’m a software engineer dedicated to leveraging technology to drive meaningful advancements in the tech industry and beyond.
 
