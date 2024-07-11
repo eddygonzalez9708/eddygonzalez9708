@@ -3,7 +3,7 @@
 ## About Me
 My journey in the technology industry has been both exciting and humbling. As a former Information Technology Instructor at Per Scholas, I had the privilege of helping students from underrepresented communities launch their careers. Working as a Technician at Astreya on Google's campus, I was immersed in a world of innovation alongside brilliant minds, igniting my passion for Software Engineering.
 
-In my role as a Software Engineer, I thrive on tackling complex challenges, building web applications, and streamlining operations through automation. I've witnessed firsthand how these efforts drive revenue growth and enhance productivity for businesses, ensuring their competitiveness in today's dynamic economy.
+As a Software Engineer with over 5 years of experience, I thrive on tackling complex challenges, building web applications, and streamlining operations through automation. I've witnessed firsthand how these efforts drive revenue growth and enhance productivity for businesses, ensuring their competitiveness in today's dynamic economy.
 
 ## Technical Skills 🛠️
 - **Web Development & Languages:** HTML, CSS, JavaScript, Python, Java
