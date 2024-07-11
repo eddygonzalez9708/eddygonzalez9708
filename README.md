@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=eddygonzalez9708&color=blue" alt="eddygonzalez9708" />
 </p>
 
-👋 Hi, I'm Edward Gonzalez! I’m a software engineer dedicated to leveraging technology to drive meaningful advancements in the tech industry and beyond.
+👋 Hi, I'm Edward Gonzalez! I’m a Software Engineer dedicated to leveraging technology to drive meaningful advancements in the tech industry and beyond.
 
 ## About Me
 My journey in the technology industry has been both exciting and humbling. As a former Information Technology Instructor at Per Scholas, I had the privilege of helping students from underrepresented communities launch their careers. Working as a Technician at Astreya on Google's campus, I was immersed in a world of innovation alongside brilliant minds, igniting my passion for Software Engineering.
