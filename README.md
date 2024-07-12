@@ -13,7 +13,7 @@ As a Software Engineer with over 5 years of experience, I thrive on tackling com
 - **Web Development & Languages:** HTML, CSS, JavaScript, Python, Java
 - **Frameworks & Libraries:** Node.js, React, Next.js, Vue, Mongoose, Django, LangChain (OpenAI)
 - **Tools:** Git, GitBook, NPM, Yarn, Restful APIs, OAuth, VS Code, Postman, MongoDB Compass
-- **Database:** PostgreSQL, SQLite, MongoDB
+- **Databases:** PostgreSQL, SQLite, MongoDB
 - **Testing:** Cypress, Jest, Unittest, Pytest
 - **Deployment:** Heroku, Netlify, CodeShip, mLab, Neon
 
